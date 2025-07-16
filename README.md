@@ -26,4 +26,4 @@ Clona el repositorio o descarga los archivos.
 
 Ejecuta en terminal:  node clientes.js
 
-Grupo: Sala 4
+Grupo: Sala 4 - Bozana, Camila Lobos, Luciano, Martín Undabarrena, Rommy Bejar, Victor Ramirez  
